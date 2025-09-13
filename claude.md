@@ -13,6 +13,9 @@
   - Using openssl rand base64 with Escape the = Characters for generate password `$(openssl rand -base64 20 | tr -d '='), $(openssl rand -hex 12 | tr -d '=')`.
   - Using tee intead of cat.
 
+### Environment
+  - real domain is only accessible on a non-standard port (e.g. https://example.com:8443), ports 80/443 are blocked.
+
 ---
 
 ## Hardware
