@@ -70,5 +70,5 @@
   - n8n Lastest version
   - Nginx reverse proxy version 1.28+
   - Postgres Lastest version
-  - SLMs Ollama Model `gemma3:270m-it-q8_0`
+  - SLMs Ollama Model gemma3:270m `gemma3:270m-it-q8_0`
   - Rustdesk Lastest version
