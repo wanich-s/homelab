@@ -16,6 +16,11 @@
 ### Environment
   - real domain is only accessible on a non-standard port (e.g. https://example.com:8443), ports 80/443 are blocked.
 
+### Tools
+  - google workspace
+  - github
+  - AI claude
+
 ---
 
 ## Hardware
