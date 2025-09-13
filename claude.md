@@ -10,7 +10,7 @@
   - Explain each step in detail, allow steps to be skipped or rolled back, and perform a verification check after completing every step.
   - Design a directory structure consistent with Docker Compose.
   - Design the system with security as the top priority.
-  - Do not use openssl rand base64 for generate password.
+  - Using openssl rand base64 with Escape the = Characters for generate password `$(openssl rand -base64 20 | tr -d '=')`.
 
 ---
 
