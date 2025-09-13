@@ -2,12 +2,22 @@
 
 ---
 
-## Rules
+## Guidelines
 
-### Global Rules
+### General
+  - Start working on each step, and once you finish, ask me before moving on to the next step.
+  - Do each step, and after finishing, check with me before starting the next one.
   - Do not hardcode, use environment variables and auto-detection instead.
+  - Explain each step in detail, allow steps to be skipped or rolled back, and perform a verification check after completing every step.
   - Choose the best approach, and if any problems occur, solve them while maintaining the same quality.
   - Explain each step in detail, allow steps to be skipped or rolled back, and perform a verification check after completing every step.
+
+## Rules
+
+---
+
+### Global Rules
+  
   - Design a directory structure consistent with Docker Compose.
   - Design the system with security as the top priority.
   - Using openssl rand base64 with Escape the = Characters for generate password `$(openssl rand -base64 20 | tr -d '='), $(openssl rand -hex 12 | tr -d '=')`.
