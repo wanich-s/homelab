@@ -24,7 +24,7 @@
   - Joplin Lastest version
   - Gitea Lastest version
   - n8n Lastest version
-  - Nginx reverse proxy Lastest version
+  - Traefik reverse proxy Lastest version
   - Postgres Lastest version
   - SLMs Ollama Model `gemma3:270m-it-q8_0`
   - Rustdesk Lastest version
