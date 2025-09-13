@@ -6,6 +6,7 @@
 
 ### Global Rules
   - Do not hardcode, use environment variables and auto-detection instead.
+  - Choose the best approach, and if any problems occur, solve them while maintaining the same quality.
 
 ---
 
