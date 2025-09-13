@@ -21,6 +21,11 @@
   - github
   - AI claude
 
+### Security
+  - ssh
+  - fail2ban
+  - ufw
+
 ---
 
 ## Hardware
