@@ -1,11 +1,22 @@
 # Claude-prompted homelab project
 
+---
+
+## Rules
+
+### Global Rules
+  - Do not hardcode, use environment variables and auto-detection instead.
+
+---
+
 ## Hardware
 
 ### 1. Raspberry Pi
   - Raspberry Pi 5
   - 4GB of RAM
   - Boot from SSD 120GB via usb 3.0 port
+
+---
 
 ## Software & Operating System
 
@@ -15,6 +26,8 @@
   - Kernel version 6.12
   - Debian version 12 (bookworm)
   - Memory Swap Optimization
+
+---
 
 ## Services
 
