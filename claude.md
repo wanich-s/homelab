@@ -11,6 +11,8 @@
   - Explain each step in detail, allow steps to be skipped or rolled back, and perform a verification check after completing every step.
   - Choose the best approach, and if any problems occur, solve them while maintaining the same quality.
   - Explain each step in detail, allow steps to be skipped or rolled back, and perform a verification check after completing every step.
+  - Using modern DevOps practices.
+  - Planing to use kubernetes.
 
 ## Rules
 
