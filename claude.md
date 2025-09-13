@@ -38,12 +38,12 @@
 ## Services
 
 ### 1. Docker services
-  - Pi-hole Lastest version
+  - Pi-hole version 6+
   - Nextcloud Lastest version
   - Joplin Lastest version
   - Gitea Lastest version
   - n8n Lastest version
-  - Traefik reverse proxy Lastest version
+  - Nginx reverse proxy version 1.28+
   - Postgres Lastest version
   - SLMs Ollama Model `gemma3:270m-it-q8_0`
   - Rustdesk Lastest version
