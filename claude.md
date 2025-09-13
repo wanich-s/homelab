@@ -8,6 +8,8 @@
   - Do not hardcode, use environment variables and auto-detection instead.
   - Choose the best approach, and if any problems occur, solve them while maintaining the same quality.
   - Explain each step in detail, allow steps to be skipped or rolled back, and perform a verification check after completing every step.
+  - Design a directory structure consistent with Docker Compose.
+  - Design the system with security as the top priority.
 
 ---
 
