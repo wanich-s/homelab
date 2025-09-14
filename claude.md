@@ -13,6 +13,7 @@
   - Explain each step in detail, allow steps to be skipped or rolled back, and perform a verification check after completing every step.
   - Using modern DevOps practices.
   - Planing to use kubernetes.
+  - Ask for implement shell script.
 
 ## Rules
 
@@ -25,6 +26,7 @@
   - Using openssl rand base64 with Escape the = Characters for generate password `$(openssl rand -base64 20 | tr -d '='), $(openssl rand -hex 12 | tr -d '=')`.
   - Using tee intead of cat.
   - Using vim intead of nano.
+  - 
 
 ### Environment
   - real domain is only accessible on a non-standard port (e.g. https://example.com:8443), ports 80/443 are blocked.
