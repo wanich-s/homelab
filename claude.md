@@ -36,6 +36,11 @@
   - github
   - AI claude
 
+### Networks
+  - Wireguard
+  - Pi-Hole
+  - Unbound
+
 ### Security
   - ssh
   - fail2ban
